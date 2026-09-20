@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Camille 👋
 
-<!--
-**camillestennis/camillestennis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Operations leader turned cloud & cybersecurity builder. U.S. Air Force veteran (Client Systems Technician) with 6+ years leading media production and cross-functional teams, now pivoting into cloud engineering and security through hands-on projects and a formal degree path.
 
-Here are some ideas to get you started:
+**Currently:**
+- 🎓 Pursuing an Associate of Science in Cloud Computing at Santa Monica College
+- 🔐 Studying for CompTIA Security+ (SY0-701)
+- 🖥️ Building a homelab (Proxmox, Docker, VLANs) for hands-on infrastructure and networking practice
+- ☁️ Provisioning AWS environments with Terraform as IaC portfolio work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Background:**
+Before the pivot, I spent years in operations and project management, most recently as Executive Producer overseeing a multi-show podcast network. That work built skills that carry over directly: cross-functional leadership, vendor and budget management, and translating technical work for non-technical stakeholders (and back).
+
+**Featured projects:**
+- 🏗️ [aws-terraform-vpc](https://github.com/camillestennis/aws-terraform-vpc) — AWS VPC/EC2/S3 provisioned entirely with Terraform
+- 🏥 [hospital-readmission-penalties-equity](https://github.com/camillestennis/hospital-readmission-penalties-equity) — Medicare readmission penalty analysis
+- 📊 [rural-maternity-care-deserts](https://github.com/camillestennis/rural-maternity-care-deserts) — Rural hospital access analysis (SQL, Tableau)
+
+**Connect:**
+- 💼 [LinkedIn](https://www.linkedin.com/in/camille-stennis/)
+- 🌐 [Portfolio](https://camillestennis.com)
